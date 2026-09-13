@@ -1,4 +1,4 @@
-gradio
+streamlit
 groq
 Pillow
 python-dotenv
